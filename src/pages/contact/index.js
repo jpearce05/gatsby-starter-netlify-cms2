@@ -40,7 +40,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
-              <h3>Please use the form below with a brief message.</h3>
+              <b>Please use the form below.</b>
               <form
                 name="contact"
                 method="post"
